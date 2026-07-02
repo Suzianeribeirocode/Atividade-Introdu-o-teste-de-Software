@@ -1,16 +1,16 @@
-O que é teste de software?
+## O que é teste de software?
 
 Testar software é avaliar a qualidade do produto, garantindo ao usuário uma experiência satisfatória. 
 
-Por que testar é importante para o negócio? 
+## Por que testar é importante para o negócio? 
 
 Além de diminuir gastos com recursos de reparação em possíveis erros com potenciais prejuízos, valida a confiança e relacionamento entre empresa e cliente. 
 
-O que caracteriza um software com qualidade? 
+## O que caracteriza um software com qualidade? 
 
 Confiabilidade, funcionalidade, Usabilidade, eficiência e segurança. 
 
-Qual o papel do QA em um time moderno? 
+## Qual o papel do QA em um time moderno? 
 
 O QA moderno é um facilitador da qualidade.
 
